@@ -1,0 +1,5 @@
+{
+  "name": "SentimentSight",
+  "description": "Customer Sentiment Dashboard that analyzes raw text reviews to generate a visual report including a sentiment trend line chart, a word cloud, and an AI-written executive summary. Features a Gemini chatbot with high thinking for deep data exploration.",
+  "requestFramePermissions": []
+}
